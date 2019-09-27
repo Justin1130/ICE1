@@ -24,6 +24,8 @@ public class CardTrick {
         Scanner keysIn = new Scanner(System.in);
         Random random = new Random();
         
+        luckyCard = "10 Hearts"
+        
         Card[] magicHand = new Card[7];
         
         for (int i=0; i<magicHand.length; i++)
